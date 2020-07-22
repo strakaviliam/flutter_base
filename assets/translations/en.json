@@ -1,0 +1,61 @@
+{
+  "error": {
+    "token": "Token expired",
+    "general": "We have some problem",
+    "no_connection": "No internet connection",
+
+    "validate_email": "Wrong email",
+    "validate_phone": "Wrong phone",
+    "validate_min_length": "To short",
+    "validate_min_length_password": "The password is too short",
+    "validate_min_length_code": "The code is too short",
+    "validate_lowercase_alpha_num": "Wrong format, use only alphanumeric lowercase",
+    "validate_empty": "Cannot be empty",
+    "validate_hex_color": "Wrong hex format (#ffffff)",
+    "validate_number": "Wrong number format!",
+    "validate_positive_number": "Must be positive (+)!",
+
+    "username_not_available": "Username used",
+    "email_not_available": "Email used",
+    "phone_not_available": "Phone used",
+    "wrong_user_info": "Informations are not correct.",
+    "user_not_found": "User not found",
+    "wrong_email": "Email is wrong",
+    "wrong_password": "Wrong Password!",
+    "authentication": "Problem with login",
+    "verify_need_wait": "Need wait befor request again.",
+    "verify_wrong_type": "Worng code",
+    "verify_not_found": "Worng code",
+    "verify_not_valid": "Worng code",
+    "verify_expired": "Expired code"
+  },
+  "common": {
+    "cancel": "Cancel",
+    "ok": "OK",
+    "email": "Email",
+    "password": "Password"
+  },
+  "login": {
+    "welcome": "Welcome {}",
+    "enter_email": "enter your email:",
+    "please_login": "please login:",
+    "set_password": "set your password:",
+    "skip_password": "Set password later",
+    "forgot_password": "Forgot password",
+    "login_action": "Login",
+    "register_action": "Join",
+    "terms": "By clicking Create account, you agree to our Terms & Conditions and Privacy Policy.",
+    "terms_clickable": "Terms & Conditions",
+    "privacy_clickable": "Privacy Policy"
+  },
+
+
+  "terms": {
+    "title": "Terms & Conditions",
+    "content": "# Terms and conditions\n\nThese terms and conditions (\"Terms\", \"Agreement\") are an agreement between ..."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "content": "# Privacy policy\n\nThis privacy policy (\"Policy\") describes how ..."
+  }
+}

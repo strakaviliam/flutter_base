@@ -1,0 +1,8 @@
+{
+  "code": 200,
+  "body": {
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJ1c2VyX25hbWUiOjEwMDAsImV4cCI6MTU5Nzk0NzExNiwiaWF0IjoxNTk1MzU1MTE2fQ.d3hFKnL8gXV2Zhvz2I4Vl7-yvDb3TubIu6zGCIn94-hwpoJEegx7XEES04U0s_eUlEaT84QDhV20-kpTauLoJ1aaFW7yejrARptvoGsnxhFcANrvrTx3PINxGStypYwxeNrqqFksnc1wE0ZicrdE5lOa0LTqvSHMUG1miSZ-HllMz-0INDbI3ENESadQklPnvW4GI5jLMPWs4NApTHLx-9ZOtjfI6seq6Cc7IDbekhiwN2A2pC9xc5B0LvhRV-4aq6uRANZgV_Uw3exlbpjdFI4X5rGNDiA4B70t9_QQxhJ4cnIpZXUDtIWGvCPdvSEVaYrA5M-bST4o_jVIAWNBfA",
+    "expire": 2591999
+  },
+  "status": true
+}

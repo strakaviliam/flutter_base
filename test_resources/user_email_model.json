@@ -1,0 +1,8 @@
+{
+  "code": 200,
+  "body": {
+    "email": "test@test.com",
+    "exist": false
+  },
+  "status": true
+}

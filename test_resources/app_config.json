@@ -1,0 +1,9 @@
+{
+  "code": 200,
+  "body": {
+    "version": "0.0.1",
+    "needUpgrade": false,
+    "canUpgrade": false
+  },
+  "status": true
+}
